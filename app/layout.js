@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Create Next App',
+  title: 'Yeniyol Kuyumculuk',
 }
 
 export default function RootLayout({ children }) {
