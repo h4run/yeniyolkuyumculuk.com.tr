@@ -39,3 +39,7 @@ export default function Home() {
       </section>
   )
 }
+
+export const config = {
+  unstable_runtimeJS: false
+}
