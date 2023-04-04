@@ -4,6 +4,7 @@ const nextConfig = {
     appDir: true,
   },
   output: 'export',
+  unstable_runtimeJS: false
 }
 
 module.exports = nextConfig

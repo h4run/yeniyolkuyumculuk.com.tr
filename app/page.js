@@ -1,7 +1,6 @@
 export default function Home() {
   return (
     <section className="relative pt-24 pb-36 bg-white overflow-hidden">
-        <img className="absolute bottom-0 left-1/2 transform -translate-x-1/2" src="flaro-assets/images/contact/gradient.svg" alt="" />
         <div className="relative z-10 container px-4 mx-auto">
           <h2 className="mb-5 text-6xl md:text-8xl xl:text-10xl text-center font-bold font-heading tracking-px-n leading-none text-amber-400">Yeniyol Kuyumculuk</h2>
           <p className="mb-20 text-lg text-gray-600 text-center font-medium leading-normal md:max-w-lg mx-auto">İletişim Bilgileri</p>
